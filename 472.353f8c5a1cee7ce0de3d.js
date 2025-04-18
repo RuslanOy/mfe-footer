@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmfe_footer=self.webpackChunkmfe_footer||[]).push([[472],{472:(e,o,t)=>{t.r(o),t.d(o,{Footer:()=>l});var r=t(914),f=t.n(r);const l=()=>f().createElement("footer",null,f().createElement("h1",null,"Мой Footer из mfe-footer"))}}]);
