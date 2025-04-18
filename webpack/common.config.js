@@ -23,7 +23,7 @@ module.exports = (env) => {
     },
     plugins: [
       new ModuleFederationPlugin({
-        name: 'header',
+        name: 'footer',
         filename: 'remoteEntry.js',
         exposes: {
           './Footer': './src/Footer',
