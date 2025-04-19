@@ -1,6 +1,6 @@
 import React from 'react';
 import { createRoot } from 'react-dom/client';
-import { Footer } from './Footer';
+import Footer from './Footer';
 
 const container = document.getElementById('root');
 const root = createRoot(container!);
